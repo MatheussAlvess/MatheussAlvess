@@ -1,24 +1,15 @@
-### Olá! Eu sou o Matheus Alves 🖖
+### Hi! I'm Matheus Alves 🖖
+Graduated in Statistics, currently working in Data Science. My main objective is to develop my career by bringing efficient decision-making to companies through data analysis and the development of Machine Learning and Statistical models to provide solutions for their challenges.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/matheuss-alvess)
+- 🔭 I’m currently working on AI projects at Kogui Tecnologia and personal projects.
+- 🌱 I’m currently learning Data Science tools to increase problem solving skills
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@matheusalvesob)
+## How to reach me 👀
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/matheuss-alvess) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@matheusalvesob)
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheussAlvess&show_icons=true&theme=dark)
 
+### Tools and Tecnologies ⚙️
 [![My Skills](https://skillicons.dev/icons?i=ai,py,tensorflow,vscode,git,docker,powershell,linux,r,postman,sqlite,latex)](https://skillicons.dev)
 
-<!--
-**MatheussAlvess/MatheussAlvess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
