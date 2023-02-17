@@ -4,10 +4,12 @@ Graduated in Statistics, currently working in Data Science. My main objective is
 - 🔭 I’m currently working on AI projects at Kogui Tecnologia and personal projects.
 - 🌱 I’m currently learning Data Science tools to increase problem solving skills
 
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheussAlvess&show_icons=true&theme=dark)
+
 ## How to reach me 👀
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/matheuss-alvess) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@matheusalvesob)
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheussAlvess&show_icons=true&theme=dark)
+
 
 ### Tools and Tecnologies ⚙️
 [![My Skills](https://skillicons.dev/icons?i=ai,py,tensorflow,vscode,git,docker,powershell,linux,r,postman,sqlite,latex)](https://skillicons.dev)
