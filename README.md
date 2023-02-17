@@ -7,7 +7,7 @@ Graduated in Statistics, currently working in Data Science. My main objective is
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheussAlvess&show_icons=true&theme=dark)
 
 ## How to reach me 👀
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/matheuss-alvess) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@matheusalvesob) 	[![Medium](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://matheussalvess.github.io/portfolio-projetos/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/matheuss-alvess) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@matheuss_alvess) [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://matheussalvess.github.io/portfolio-projetos/)
 
 
 
