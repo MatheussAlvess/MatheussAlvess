@@ -1,4 +1,12 @@
-### Hi there 👋
+### Olá! Eu sou o Matheus Alves 🖖
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/matheuss-alvess)
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@matheusalvesob)
+
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheussAlvess&show_icons=true&theme=dark)
+
+[![My Skills](https://skillicons.dev/icons?i=ai,py,tensorflow,vscode,git,docker,powershell,linux,r,postman,sqlite,latex)](https://skillicons.dev)
 
 <!--
 **MatheussAlvess/MatheussAlvess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
