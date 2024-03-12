@@ -12,6 +12,6 @@ Graduated in Statistics, currently working in Data Science. My main objective is
 
 
 ### Tools and Tecnologies ⚙️
-[![My Skills](https://skillicons.dev/icons?i=ai,py,tensorflow,vscode,git,docker,powershell,linux,r,postman,sqlite,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,py,tensorflow,vscode,git,docker,powershell,linux,r,sqlite,latex)](https://skillicons.dev)
 
 
