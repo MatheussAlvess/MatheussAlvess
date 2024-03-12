@@ -1,7 +1,7 @@
 ### Hi! I'm Matheus Alves 🖖
 Graduated in Statistics, currently working in Data Science. My main objective is to develop my career by bringing efficient decision-making to companies through data analysis and the development of Machine Learning and Statistical models to provide solutions for their challenges.
 
-- 🔭 I’m currently working on AI projects at Kogui Tecnologia and personal projects.
+- 🔭 I’m currently working on AI projects at Cartesius Capital and personal projects.
 - 🌱 I’m currently learning Data Science tools to increase problem solving skills
 
 
