@@ -1,9 +1,8 @@
 ### Hi! I'm Matheus Alves 🖖
-Graduated in Statistics, currently working in Data Science. My main objective is to develop my career by bringing efficient decision-making to companies through data analysis and the development of Machine Learning and Statistical models to provide solutions for their challenges.
+I hold a degree in Statistics and specialize in Data Science, with a passion for leveraging data to drive impactful decision-making. My goal is to help organizations overcome challenges by developing insightful analyses and building robust Machine Learning and Statistical models.
 
-- 🔭 I’m currently working on AI projects at Cartesius Capital and personal projects.
-- 🌱 I’m currently learning Data Science tools to increase problem solving skills
-
+- 🔭 **Current Role:** AI projects at Hand Talk, focusing on cutting-edge technologies.
+- 🌱 **Learning Journey:** Continuously expanding my expertise in Data Science tools to enhance problem-solving capabilities.
 
 
 ## How to reach me 👀
