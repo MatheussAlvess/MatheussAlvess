@@ -1,5 +1,5 @@
 ### Hi! I'm Matheus Alves 🖖
-I hold a degree in Statistics and specialize in Data Science, with a passion for leveraging data to drive impactful decision-making. My goal is to help organizations overcome challenges by developing insightful analyses and building robust Machine Learning and Statistical models.
+I hold a degree in Statistics and currently work as a Data Scientist, with a passion for leveraging data to drive impactful decision-making. My goal is to help organizations overcome challenges by developing insightful analyses and building robust Machine Learning and Statistical models.
 
 - 🔭 **Current Role:** AI projects at Hand Talk, focusing on cutting-edge technologies.
 - 🌱 **Learning Journey:** Continuously expanding my expertise in Data Science tools to enhance problem-solving capabilities.
